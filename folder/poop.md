@@ -1,5 +1,6 @@
 ---
 title: Poop
+parent: Folder
 layout: home
 ---
 

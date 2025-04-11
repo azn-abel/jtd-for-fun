@@ -20,6 +20,10 @@ Other than that, you're free to customize sites that you create with this templa
 print("Hello World")
 ```
 
+```bash
+git clone poop.com
+```
+
 To get started with creating a site, simply:
 
 1. click "[use this template]" to create a GitHub repository
